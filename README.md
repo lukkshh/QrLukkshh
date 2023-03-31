@@ -1,4 +1,10 @@
 
+# QrLukkshh
+
+Simple Qrcode Generator And Reader Gui Using By Tkinter
+
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
 ## Insttalation And Usage
 
 ```terminal
